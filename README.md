@@ -18,3 +18,5 @@ This repository contains all the tasks completed during my CodeAlpha Data Analyt
 - GitHub
 
 Author: Mohammad Shireen
+# CodeAlpha_DataAnalytics
+Data Analytics Internship Projects Completed During CodeAlpha Internship
