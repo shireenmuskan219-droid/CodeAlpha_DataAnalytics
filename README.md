@@ -16,6 +16,20 @@ This repository contains all the tasks completed during my CodeAlpha Data Analyt
 - Scikit-learn
 - Git
 - GitHub
+## Dataset
+-titanic Dataset
+## Observations
+- Most passengers in 1st class had a higher survival rate.
+- Females survived more often than males.
+- Younger passengers had better survival chances.
+- Some columns contained missing values that were cleaned before analysis.
+## Repository Structure
+
+Task1_EDA/
+├── EDA.ipynb
+├── Titanic-Dataset.csv
+├── requirements.txt
+└── README.md
 
 Author: Mohammad Shireen
 # CodeAlpha_DataAnalytics
