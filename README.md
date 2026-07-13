@@ -47,3 +47,9 @@ Data Analytics Internship Projects Completed During CodeAlpha Internship
 # Conclusion
 
 This exploratory data analysis helped identify patterns in passenger demographics and survival. Passenger class, gender, and fare appeared to influence survival outcomes.
+
+## Future Improvements
+- Perform feature engineering to improve analysis.
+- Build a machine learning model to predict passenger survival.
+- Create an interactive dashboard using Power BI or Tableau.
+- Analyze additional datasets for comparison.
